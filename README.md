@@ -6,6 +6,6 @@ This is our **collaborative** paper repo!
 
 This is a subsection.
 
-## Subsection
+## The test
 
 This is the cool subsection
